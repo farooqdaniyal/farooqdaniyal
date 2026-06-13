@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Muhammad Farooq  
-**A passionate Frontend Developer from Karachi, Pakistan**
+**A passionate Full Stack Developer from Karachi, Pakistan**
 
 🌐 **Portfolio:** [Coming Soon]  
 📧 **Email:** ✉️ farooqdaniyal151@gmail.com  
