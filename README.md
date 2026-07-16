@@ -64,10 +64,10 @@ Here is my structured curriculum and the milestones I have achieved so far:
 
 I'm always open to collaborating on interesting data projects or discussing new AI ideas. Feel free to reach out to me!
 
-<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+<a href="https://www.linkedin.com/in/farooqdaniyal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+<a href="mailto:farooqdaniyal151@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
