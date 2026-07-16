@@ -127,7 +127,7 @@ I once tried to train a machine learning model to predict my exam grades, but it
 ```python
 # My Profile as Code 😉
 
-class MuhammadHunain:
+class MuhammadFarooq:
     def __init__(self):
         self.name = "Muhammad Farooq"
         self.role = "AI & Data Science Student"
