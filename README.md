@@ -92,5 +92,5 @@ class MuhammadHunain:
     def say_hi(self):
         print("Hello World! Diving deep into Deep Learning & GenAI next.")
 
-me = MuhammadHunain()
+me = MuhammadFarooq()
 me.say_hi()
