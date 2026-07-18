@@ -1,4 +1,5 @@
-Hi there, I'm Muhammad Farooq! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hi there, I'm Muhammad Farooq! 
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 🌎 **Based in Karachi, Pakistan** | 💡 **Passionate about solving real-world problems using Data & AI**  
 
