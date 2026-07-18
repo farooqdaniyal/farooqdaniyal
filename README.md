@@ -80,6 +80,7 @@ Welcome to my GitHub profile! I'm an aspiring AI Engineer and Data Scientist. I 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42"/>
 </a>
 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 </p>
 ---
