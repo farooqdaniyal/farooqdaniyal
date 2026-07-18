@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> there, I'm Muhammad Farooq
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> there, I'm Muhammad Farooq
 
 🌎 **Based in Karachi, Pakistan** | 💡 **Passionate about solving real-world problems using Data & AI**  
 
