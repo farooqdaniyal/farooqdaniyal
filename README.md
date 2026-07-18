@@ -83,7 +83,6 @@ Welcome to my GitHub profile! I'm an aspiring AI Engineer and Data Scientist. I 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 </p>
----
 
 ## 📊 My AI & Data Science Learning Journey
 
