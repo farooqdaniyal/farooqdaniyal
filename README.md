@@ -132,7 +132,7 @@ class MuhammadFarooq:
         self.name = "Muhammad Farooq"
         self.role = "AI & Data Science Student"
         self.location = "Karachi, Pakistan"
-        self.completed_milestones = ["Python Foundations", "Data Science Core", "Machine Learning"]
+        self.completed_milestones = ["Python Foundations", "Data Science Core", "Machine Learning","Deep Learning"]
         
     def say_hi(self):
         print("Hello World! Diving deep into Deep Learning & GenAI next.")
