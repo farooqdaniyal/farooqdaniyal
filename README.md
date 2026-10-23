@@ -118,11 +118,6 @@ I enjoy projects where AI has to be **explainable and keep a human in control**.
 - [x] **Generative AI / LLMs** (RAG, Vector Databases, LLM integration)
 - [x] **Agentic AI** (multi-agent workflows with LangGraph)
 
-### ⏳ In Progress & Next
-- [ ] **MLOps** (Docker, MLflow, CI/CD) 🛠️
-- [ ] **More agent frameworks** (CrewAI, AutoGen) 🤝
-- [ ] **Big Data & Cloud** (Apache Spark, AWS/Azure) ☁️
-
 ---
 
 ## 📈 GitHub Stats
